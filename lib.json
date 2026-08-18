@@ -1,0 +1,15 @@
+{
+    "id": "purplesoulLib",
+    "version": "v1.0.0",
+    "engineVer": "v0.11.0-dev",
+    "authors": [
+        "Carsten23455"
+    ],
+    "config": {
+
+    },
+    "description": [
+        "A purple soul library that attempts to recreate the mode from the",
+        "pink fight but has many flaws and will never be considered perfect"
+    ]
+}
